@@ -18,7 +18,7 @@ const Projects = () => {
          {
             image:projectImage3,
             description:'This is a basic template website for restaurent build using HTML and CSS it is completely responsive.',
-            link:'https://dentacareintern.web.app/'
+            link:'https://ajithyaasaf.github.io/website-project-1/'
          }
       ]
    }
