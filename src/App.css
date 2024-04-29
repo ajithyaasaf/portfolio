@@ -1,0 +1,29 @@
+.bg-primary {
+  background: #1f2937;
+}
+.bg-secondary {
+  background: #3e4c59;
+}
+
+.mobile-nav {
+  @apply fixed top-10 left-0 text-center h-fit w-full bg-secondary filter backdrop-blur-xl;
+}
+.mobile-nav li {
+  @apply border-b-2 h-full text-center mt-2;
+}
+
+.projecthover {
+  @apply absolute bottom-0  opacity-0 hover:opacity-85  duration-500 bg-primary text-white px-5 py-5 font-bold   md:w-[400px] md:h-[250px] w-[300px] 
+  h-[200px];
+}
+
+.btn {
+  @apply border-2 border-blue-600 rounded-lg px-3 py-2 text-blue-400 cursor-pointer hover:bg-blue-600 hover:text-blue-200;
+}
+.btnresume {
+  @apply border-2 border-blue-600 rounded-lg px-3 py-2 text-blue-400 cursor-pointer hover:bg-blue-600 hover:text-blue-200 size-5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
