@@ -7,17 +7,17 @@ const Projects = () => {
       projects:[
          {
             image: projectImage1,
-            description:'This Social Media Website Built Using HTML,CSS,React js,AXIOS, and CRUD opertions.',
+            description:'This Social Media Website Build Using HTML,CSS,React js,AXIOS, and CRUD opertions.',
             link:'https://github.com/ajithyaasaf/React_social_media_app'  
          },
          {
             image: projectImage2,
-            description:'This is Dental-care website Built for client during Internship using HTML, CSS, javascript, Bootstraps.',
-            link:'https://ajithyaasaf.github.io/Amazon-clone/'
+            description:'This is Dental-care website Build for client during Internship using HTML, CSS, javascript, Bootstraps.',
+            link:'https://dentacareintern.web.app/'
          },
          {
             image:projectImage3,
-            description:'This is a basic template website for restaurent it is completely responsive.',
+            description:'This is a basic template website for restaurent build using HTML and CSS it is completely responsive.',
             link:'https://dentacareintern.web.app/'
          }
       ]
