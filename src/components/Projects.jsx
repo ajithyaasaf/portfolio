@@ -17,8 +17,8 @@ const Projects = () => {
          },
          {
             image:projectImage3,
-            description:'This is a basic template website for restaurent build using HTML and CSS it is completely responsive.',
-            link:'https://ajithyaasaf.github.io/website-project-1/'
+            description:'This is a Admin DashBoard for DentalCare Hospital build using HTML,CSS,JavaScript,ReactJs,BootStrap,ExpressJs,Firebase.',
+            link:'https://hospital-management-23dbf.web.app/'
          }
       ]
    }
