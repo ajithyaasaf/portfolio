@@ -17,7 +17,7 @@ const Projects = () => {
          },
          {
             image:projectImage3,
-            description:'This is a Admin DashBoard for DentalCare Hospital build using HTML,CSS,JavaScript,ReactJs,BootStrap,ExpressJs,
+            description:'This is a Admin DashBoard for DentalCare Hospital build using JavaScript,ReactJs,BootStrap,ExpressJs,
                Firebase.',
             link:'https://hospital-management-23dbf.web.app/'
          }
